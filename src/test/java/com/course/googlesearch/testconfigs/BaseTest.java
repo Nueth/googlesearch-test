@@ -1,4 +1,4 @@
-package com.course;
+package com.course.googlesearch.testconfigs;
 
 
 import com.codeborne.selenide.Configuration;

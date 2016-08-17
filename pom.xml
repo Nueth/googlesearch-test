@@ -29,6 +29,11 @@
             <artifactId>allure-junit-adaptor</artifactId>
             <version>${allure.version}</version>
         </dependency>
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>3.8</version>
+        </dependency>
     </dependencies>
     <build>
         <plugins>
